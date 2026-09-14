@@ -1,0 +1,2 @@
+# git-trening
+prve ulohy
